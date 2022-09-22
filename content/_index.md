@@ -31,7 +31,7 @@ We care about efficiency (in time and space)
 flowchart LR
   Input --read--> Process --write--> Output
   Output --influence--> Input
-  Process --indirect effect (e.g., energy consumption)--> Input
+  Process --"indirect effect (e.g., energy consumption)"--> Input
   Process --evolve--> Process
 ```
 
