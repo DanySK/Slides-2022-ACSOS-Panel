@@ -19,6 +19,7 @@ outputs = ["Reveal"]
 **Classic world**
 
 [![](https://mermaid.ink/svg/pako:eNodjbEKAyEQRH9FFsTm_AGLVGkCgYSktVl0Lyc5NXgrRxD_PV664fFmpoHLnsCAlC2kwEY0xQtFUkZ5LG_Vu5Q2zWve3YKFxfVhkxCX9KkstC6EXuuTuJfsaNsG2UtgOtCt8nBggkglYvDjox1VC_99C2ZETzPWlS3Y1IeKlfPzmxwYLpUmqB-PTOeAr4IRzIzrRv0Ht2g8Cg)](https://mermaid.live/edit#pako:eNodjbEKAyEQRH9FFsTm_AGLVGkCgYSktVl0Lyc5NXgrRxD_PV664fFmpoHLnsCAlC2kwEY0xQtFUkZ5LG_Vu5Q2zWve3YKFxfVhkxCX9KkstC6EXuuTuJfsaNsG2UtgOtCt8nBggkglYvDjox1VC_99C2ZETzPWlS3Y1IeKlfPzmxwYLpUmqB-PTOeAr4IRzIzrRv0Ht2g8Cg)
+
 We care about efficiency (in time and space)
 
 **Classic world**
